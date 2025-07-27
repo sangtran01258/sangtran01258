@@ -9,7 +9,7 @@
 - 🚀 I’m learning **AWS, Docker, backend dev, and system architecture**
 - 🤝 I’m looking to collaborate on **open-source, AI tools, and full-stack projects**
 - 📫 How to reach me: **sangtran01258@gmail.com**
-- 🔗 LinkedIn: [linkedin.com/in/sangtran](https://linkedin.com/in/sangtran) *(cập nhật nếu chưa có)*
+- 🔗 LinkedIn: [linkedin.com/in/sangtran](https://linkedin.com/in/sangtran)
 - 🌐 Portfolio: **[Coming soon! 🚧]**
 
 ---
