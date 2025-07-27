@@ -27,7 +27,6 @@
 - [💬 Chat App](https://github.com/sangtran01258/chat-app) – Real-time chat using Node.js + Socket.io  
 - [🧠 Auto OCR Bot](https://github.com/sangtran01258/ocr-bot) – Extracts in-game data using Python OCR  
 - [🌐 Portfolio Website](https://github.com/sangtran01258/portfolio) – Personal website using HTML/CSS/JS  
-*(📎 Gắn thêm link nếu bạn có hoặc tạo repo dummy)*
 
 ---
 
