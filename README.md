@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sang </h1>
+<h3 align="center">An IT enthusiast who loves building things!</h3>
 
-<!--
-**sangtran01258/sangtran01258** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **automation tools and web apps**
+- 🌱 I’m currently learning **AWS, Docker, and backend development**
+- 👯 I’m looking to collaborate on **open-source web and AI projects**
+- 📫 How to reach me: **sangtran01258@gmail.com**
+- 🌐 Portfolio: [Coming Soon!]
 
-Here are some ideas to get you started:
+### 🛠 Languages and Tools:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,py,c,cpp,react,nextjs,nodejs,mysql,mongodb,postgres,docker,aws,linux,git,github,tailwind,vercel" />
+</p>
+
+### 📊 GitHub Stats:
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=sangtran01258&show_icons=true&locale=en" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sangtran01258" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangtran01258&layout=compact" />
+</p>
